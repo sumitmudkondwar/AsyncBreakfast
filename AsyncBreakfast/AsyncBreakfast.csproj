@@ -46,6 +46,7 @@
     <Compile Include="Breakfast0.cs" />
     <Compile Include="Breakfast1.cs" />
     <Compile Include="Breakfast2.cs" />
+    <Compile Include="Breakfast3.cs" />
     <Compile Include="Coffee.cs" />
     <Compile Include="Egg.cs" />
     <Compile Include="Juice.cs" />

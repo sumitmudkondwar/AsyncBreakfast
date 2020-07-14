@@ -10,7 +10,7 @@ namespace AsyncBreakfast
     {
         static void Main(string[] args)
         {
-            Breakfast0.PrepareBreakfast();
+            Breakfast3.PrepareBreakfast();
             Console.ReadLine();
         }
         
